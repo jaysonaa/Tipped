@@ -4,7 +4,7 @@
 
 Submitted by: **Jay'son Alburg**
 
-Time spent: **1** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
